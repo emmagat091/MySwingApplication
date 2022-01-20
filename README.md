@@ -9,7 +9,7 @@ Integrante: **Gatica , Emmanuel David.**
 
 ## Proyecto: Creación de una aplicación Java Swing.
 
-**Proyecto desarrollado en Jdeveloper 11.1.2**
+**Proyecto desarrollado en Jdeveloper 11.1.2 y en 12.2.1.4**
 
 
 
